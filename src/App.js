@@ -14,6 +14,7 @@ class App extends Component {
             <Route path="/" exact component={SignIn} />
           </Switch>
         </Layout>
+        <div />
       </div>
     );
   }
